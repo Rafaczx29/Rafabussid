@@ -3,7 +3,10 @@
 
 # Perintah untuk menginstall:
  - pkg update && pkg upgrade
+ - pkg install python
  - pkg install git
+ - pip install requests
+ - pip install colorama
  - git clone https://github.com/Rafaczx29/Rafabussid
  - cd Rafabussid
  - python rafabussid.py
