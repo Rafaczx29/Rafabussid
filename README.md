@@ -3,6 +3,7 @@
 
 # Perintah untuk menginstall:
  - pkg update && pkg upgrade
+ - pkg install git
  - git clone https://github.com/Rafaczx29/Rafabussid
  - cd Rafabussid
  - python rafabussid.py
