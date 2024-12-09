@@ -7,6 +7,8 @@
  - pkg install git
  - pip install requests
  - pip install colorama
+ - pip install gspread
+ - pip install oauth2client
  - git clone https://github.com/Rafaczx29/Rafabussid
  - cd Rafabussid
  - python rafabussid.py
