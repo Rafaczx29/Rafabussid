@@ -1,5 +1,4 @@
 import time
-os.system('termux-timezone set Asia/Jakarta')
 import os
 import sys
 import requests
@@ -9,7 +8,7 @@ from colorama import init, Fore, Style
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
-
+os.system('termux-timezone set Asia/Jakarta')
 # Fungsi untuk membersihkan layar (cross-platform)
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
