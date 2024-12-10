@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "key-datavase",
-  "private_key_id": "da5ceace4a2b99f28e3d8847400a0638bbb2c4fe",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCch2JIGPoeoF86\n8O1upHX6hhkOIcWFFDOWP55gaRz9J74xV5Ho5hioaySfXq2cDboP52cLMbMv6JAm\noqaxBxE5pnJEpp3146Fs0JvO+yd41XPt/C68ZkZjLOWsSN2/hCm/qAD7Q6onlDyG\nfsCbknCfjsv+8bVRxzuMFWCFSF55CWx7R7AjUUbKsTvgSrCxaGiwdz/Tdr6oSWcw\nSZXgX+e+uh2pG7pTKnH6BWsYJ+p9Rx7HOppnSKgLvz4Dh5haVIHbgS8MAt85r1r9\nIFWTGW+fT6sS3dDwSt6rpryq4Y98PWgR4AorZSn724XbXYNGHBIdceg6Ww1L3HdB\n6M3mQkDNAgMBAAECggEAJBSW5HyRZu7blKgFaswQ/9LaQqYpM/BApeD7PkjsbDQ1\nhIUldnRXebbcxbmatg559YGHAI8PuTrXw3gZiVPSNiI2U7m+TngOdRku2QqOgi1d\noB1Rno7KqcCnHkvbhXJO90UgGMrzlVT3kJ72AcZDHJxbTGRlwbh1cuhYi9BvKmHT\n2ij7YXdvrue1FkyNtXWyerh2r41DEpSgZ8R/7hXAl18yhs9ngtrb/RhDkEi/GN3X\nND3ETtQfWO+Jp/dlsdE5UX4vaPhEebOSZkxR2meK8Wc1vpgT2VocLLGJMkPDRsJq\nwbjRbrditRVgThLpZyEd/O7TNGXdXPBzXnMBuMrDIQKBgQDQX/Zp3BqFi09JhIKS\nTsjYcSR7cDb8xyEwEm2lQG5KfY/Jfk5v8kXYbWaIOWX1zPOt2ZtX8pp/u18lqwc5\nqbDj858y3sjJd3GdWpAWJ53T10xXdvXmMuHGvQvtOHwSQ5QKBcCIhh5/t7vnAhT2\nkp2KimLUD6cMqsiKVfb3uFknXQKBgQDATee3DGvwPhRf+/13NZTc5acV1OI4SUwo\no0VXxphn3Ow9NGuONdfMqzIwjSfdXDa7mdTVqsYzjGSPFImG0uOamyZOUB/4uu2T\nCLqyHg6HCArMJKp8xrb6e41qhrlqTORqqVvGA9tPsDs4MnW6ndhPMW8lMbE8XCSr\n9aPdFHUYMQKBgEvl2DxAxoxD7NJLaL/f4Hot4+ruOaki4uy+mZ9qc4HAcGIlFm7i\nIRyu5HzT41Z/m3aEX3fOTwYdeo+e1xfiviKZdzAxQ5NWZVS6Suc28N7bedwV4YVC\nnUglTbXPMCn64W4xICraJzu/8bo34OjbCHUQ6ORy+xa7EiaJH1almBulAoGAZFsD\nlpJD7g7noSOnJcPvmMu8Q3diSw9tUDPMZz87n9A59MLbck6E/MlGmvG/IRUTdxmT\naaICZzpX7BdCofqCTteyyOGlna8ndjjy/SsUV8GJqPllg1JMgTFjHnmKX4AbH9Kc\nEx1GITMN5IjoyWfAT6uzngxtuts3RAof5qrbZLECgYAi+ySdiMK0hHc82uiKURNT\nQWacw3aFlEnJITz4QWijsuE5W2gopIHqNK7PsRr5WvUc/GYs5u2Osea4MayJ3PS3\n/Qr4k2Q5oaRFoyAgyrOkAAENizu6EAvDN8F+hJRcRJmwamoVYrIobTXwRxuFcg/s\nYxq7JjPL5lMcvkPjtTZtMQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "bussidrafa@key-datavase.iam.gserviceaccount.com",
-  "client_id": "107543901954183295777",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bussidrafa%40key-datavase.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+@WA 082275380393
