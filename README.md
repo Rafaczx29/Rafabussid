@@ -12,4 +12,4 @@
  - python rafabussid.py
 
 # Semoga membantu. 
-# Untuk akses premium silahkan hubungi WhatsApp @0822-7538-0393
+# Untuk akses premium silahkan hubungi WhatsApp  @0822-7538-0393
