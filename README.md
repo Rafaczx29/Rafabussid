@@ -9,7 +9,7 @@
  - pip install colorama
  - git clone https://github.com/Rafaczx29/Rafabussid
  - cd Rafabussid
- - python rafabussid.py
+ - python bussid.py
 
 # Semoga membantu. 
 # Untuk akses premium silahkan hubungi WhatsApp  @0822-7538-0393
