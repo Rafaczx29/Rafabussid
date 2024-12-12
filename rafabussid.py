@@ -1,1 +1,0 @@
-@WWW.RAFACZX.COM elif KONTOL if bujag() 
