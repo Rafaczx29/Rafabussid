@@ -11,8 +11,8 @@
  - cd Rafabussid
  - python bussid.py
 
-# TRIAL
-KEY AKTIF SAMPAI 25 DESEMBER 2024 
+# KEY AKSES
+GUNAKAN KEY **NEWYEAR** UNTUK AKSES GRATIS SAMPAI 08 JANUARI 2025
 
 # Semoga membantu. 
 # Untuk akses premium silahkan hubungi WhatsApp  @0822-7538-0393
