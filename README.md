@@ -1,5 +1,5 @@
 # Fitur apa yang tersedia? 
-![IMG_20241212_144032](https://github.com/user-attachments/assets/9d4efe1d-194c-4947-b323-a28c363fe42f)
+![Screenshot_2024-12-21-04-08-56-821-edit_com termux](https://github.com/user-attachments/assets/b5b89abf-4716-4f4c-8e42-cff6f2716472)
 
 # Perintah untuk menginstall:
  - pkg update && pkg upgrade
