@@ -5,7 +5,6 @@ import requests
 import json
 from datetime import datetime
 from colorama import init, Fore, Style
-from datetime import datetime
 import shutil
 import subprocess
 import sys
@@ -13,6 +12,7 @@ import sys
 # Nama direktori repo
 repo_dir = 'Rafabussid'
 repo_url = 'https://github.com/Rafaczx29/Rafabussid'
+marker_file = 'update_done.txt'
 
 # Cek apakah direktori sudah ada
 if os.path.exists(repo_dir):
@@ -22,8 +22,27 @@ if os.path.exists(repo_dir):
 # Clone repository terbaru
 subprocess.run(['git', 'clone', repo_url])
 
-# Restart script
-os.execl(sys.executable, sys.executable, *sys.argv)
+# Buat marker file untuk menunjukkan bahwa update telah dilakukan
+with open(marker_file, 'w') as f:
+    f.write('Update completed.')
+
+# Restart script hanya jika marker file belum ada
+if not os.path.exists(marker_file):
+    os.execl(sys.executable, sys.executable, *sys.argv)
+
+# Bagian lain dari script Anda di bawah ini
+def main():
+    # Logika utama dari script Anda
+    print("Selamat datang di script terbaru!")
+
+    # Hapus marker file setelah pengguna berhasil menjalankan script
+    if os.path.exists(marker_file):
+        os.remove(marker_file)
+        print("Marker file dihapus setelah update.")
+
+if __name__ == "__main__":
+    main()
+
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -627,7 +646,7 @@ def show_menu():
     print() 
     print() 
     print(Fore.GREEN + Style.BRIGHT + "╔═══════════════════════════════════════════════╗")
-    print(f'\x1b[1;32m║\x1b[0m {Fore.CYAN + Style.BRIGHT}✨ 𝗧𝗢𝗣 𝗨𝗣 𝗕𝗨𝗦𝗦𝗜𝗗 - 𝟮𝟬𝟮𝟱 - 𝗠𝗜𝗫𝗙𝗜𝗧𝗨𝗥. ✨')
+    print(f'\x1b[1;32m║\x1b[0m {Fore.CYAN + Style.BRIGHT}✨ 𝗧𝗢𝗣 𝗨𝗣 𝗕𝗨𝗦𝗦𝗜𝗗 - 𝟮??𝟮𝟱 - 𝗠𝗜𝗫𝗙𝗜𝗧𝗨𝗥. ✨')
     print(f'\x1b[1;32m║ \x1b[0m \x1b[1;33;41m • \x1b[1;37m𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗥𝗔𝗙𝗔𝗖𝗭𝗫 \x1b[1;33m • \x1b[0m')
     print(f'\x1b[1;32m║ \x1b[0m \x1b[1;33;41m • \x1b[1;37m𝗛𝗔𝗥𝗜: {hari}, {bulan} {tanggal} \x1b[1;33m • \x1b[0m\x1b[ ''')
     print(Fore.GREEN + Style.BRIGHT + "╚═══════════════════════════════════════════════╝")
