@@ -1,6 +1,6 @@
-# encrypt by FIRZAH
-# Github : https://github.com/FIRandZAH
-# WhatsApp : +62 831-7059-7744
+# encrypt by RAFACZX
+# Github : https://github.com/Rafaczx29
+# WhatsApp : +62 822-7538-0393
 # Time : Sat Dec 21 15:26:33 2024
 
 love_wonyoung = ''
@@ -82805,8 +82805,8 @@ love_wonyoung += "Je\'[:"
 love_wonyoung += ":-1])"
 love_wonyoung += ")))"
 
-author_script_enc_firzah = True
+author_script_enc_rafaczx = True
 
-if 'author_script_enc_firzah' not in globals():
-    raise ValueError("Variable 'author_script_enc_firzah' is missing or has been altered!")
+if 'author_script_enc_rafaczx' not in globals():
+    raise ValueError("Variable 'author_script_enc_rafaczx' is missing or has been altered!")
 exec(love_wonyoung)
