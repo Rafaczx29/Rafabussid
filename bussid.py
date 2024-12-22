@@ -2,7 +2,7 @@
 # Github : https://github.com/FIRandZAH
 # WhatsApp : +62 822-7538-0393
 # Time : Sun Dec 22 08:04:00 2024
-# PT @1
+# PT @2
 
 love_wonyoung = ''
 love_wonyoung += "exec("
