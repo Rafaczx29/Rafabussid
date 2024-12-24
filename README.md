@@ -28,5 +28,3 @@ GUNAKAN KEY **NEWYEAR** UNTUK AKSES GRATIS SAMPAI 08 JANUARI 2025
 
 # End. 
 
-##
-<tab><tab>yanto/text here
