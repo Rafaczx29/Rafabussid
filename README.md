@@ -3,8 +3,6 @@
 
 
 # Perintah untuk menginstall:
-##
-<tab><tab>code/Test
  - pkg update && pkg upgrade
  - pkg install python
  - pkg install git
@@ -28,3 +26,6 @@ GUNAKAN KEY **NEWYEAR** UNTUK AKSES GRATIS SAMPAI 08 JANUARI 2025
 **<a href='https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1'>BUSSID 3.6</a>**
 
 # End. 
+
+##
+<tab><tab>yanto/text here
