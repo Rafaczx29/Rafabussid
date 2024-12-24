@@ -3,6 +3,7 @@
 
 
 # Perintah untuk menginstall:
+<clipboard-copy value="pkg update && pkg upgrade">Copy</clipboard-copy>
  - pkg update && pkg upgrade
  - pkg install python
  - pkg install git
