@@ -14,7 +14,15 @@
 
 # KEY AKSES
 GUNAKAN KEY **NEWYEAR** UNTUK AKSES GRATIS SAMPAI 08 JANUARI 2025
-
-# Semoga membantu. 
+ 
 # Untuk akses premium silahkan hubungi WhatsApp:
 **<a href='http://bit.ly/rafaczx'>WhatsApp</a>**
+
+# Bahan Ambil Token:
+**<a href='https://www.mediafire.com/file/sw6k8kf4kg32q0t/HTTPCANARY+(REVOLT).zip/file'>HTTPCanary</a>**
+
+**<a href='https://f-droid.org/id/packages/com.termux/'>Termux FDroid</a>**
+
+**<a href='https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1'>BUSSID 3.6</a>**
+
+# End. 
