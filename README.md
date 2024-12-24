@@ -6,6 +6,7 @@
  - pkg update && pkg upgrade
  - pkg install python
  - pkg install git
+ - pkg install figlet
  - pip install requests
  - pip install colorama
  - git clone https://github.com/Rafaczx29/Rafabussid
