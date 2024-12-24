@@ -3,7 +3,8 @@
 
 
 # Perintah untuk menginstall:
-<clipboard-copy value="pkg update && pkg upgrade">Salin</clipboard-copy>
+##
+<tab><tab>code/Test
  - pkg update && pkg upgrade
  - pkg install python
  - pkg install git
