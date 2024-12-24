@@ -17,4 +17,4 @@ GUNAKAN KEY **NEWYEAR** UNTUK AKSES GRATIS SAMPAI 08 JANUARI 2025
 
 # Semoga membantu. 
 # Untuk akses premium silahkan hubungi WhatsApp:
-**https://bit.ly/rafaczx**
+**<a href='http://bit.ly/rafaczx'>WhatsApp</a>**
