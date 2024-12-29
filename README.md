@@ -6,9 +6,7 @@
  - pkg update && pkg upgrade
  - pkg install python
  - pkg install git
- - pip install pyfiglet
- - pip install requests
- - pip install colorama
+ - pip install -r requirements.txt
  - git clone https://github.com/Rafaczx29/Rafabussid
  - cd Rafabussid
  - python bussid.py
