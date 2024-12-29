@@ -14,7 +14,7 @@
  - python bussid.py
 
 # KEY AKSES
-GUNAKAN KEY **NEWYEAR** UNTUK AKSES GRATIS SAMPAI 08 JANUARI 2025
+GUNAKAN KEY **FREE** UNTUK AKSES GRATIS SAMPAI 30 JANUARI 2025
  
 # Untuk akses premium silahkan hubungi WhatsApp:
 **<a href='http://bit.ly/rafaczx'>WhatsApp</a>**
