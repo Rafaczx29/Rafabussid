@@ -1,5 +1,6 @@
 ## SCRIPT
-![SCRIPT](./img/topup.jpeg)
+![Screenshot_2025-02-15-17-11-01-419-edit_com termux](https://github.com/user-attachments/assets/31f03011-a558-451f-9b4c-1c9950e1166b)
+
 
 ## Installation
 
@@ -34,14 +35,14 @@ python bussid.py
 
 ## GET TOKEN / DEVICE ID
 
-• [Termux](https://f-droid.org/repo/com.termux_1000.apk)  (Jika Blm punya)
+• [Termux](https://f-droid.org/repo/com.termux_1000.apk) 
 
-• [HTTP Canary Revolt](https://www.mediafire.com/file/sw6k8kf4kg32q0t/HTTPCANARY+(REVOLT).zip/file) (Http Canary)
+• [HTTP Canary Revolt](https://www.mediafire.com/file/sw6k8kf4kg32q0t/HTTPCANARY+(REVOLT).zip/file) 
 
-• [BUSSID Versi 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( wajib! hanya untuk mengambil token! ) 
-> jika pake bussid versi terbaru, token / device id tidak muncul.
+• [BUSSID Versi 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) 
+> Jika Pake Bussid Versi Terbaru, Token / Device Id Tidak Muncul.
 
-> Setelah topup selesai bisa langsung update bussid ke Versi Terbaru!
+> Setelah Topup Selesai Bisa Langsung Update Bussid Ke Versi Terbaru!
 
 
 ## Contact Me
