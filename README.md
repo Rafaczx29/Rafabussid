@@ -32,20 +32,22 @@ cd Rafabussid
 python bussid.py
 ```
 
+# KEY AKSES
+GUNAKAN KEY **FREE** UNTUK AKSES GRATIS SAMPAI 30 MARET 2025
 
 ## GET TOKEN / DEVICE ID
 
-• [Termux](https://f-droid.org/repo/com.termux_1000.apk) 
+• **[Termux]**(https://f-droid.org/repo/com.termux_1000.apk) 
 
-• [HTTP Canary Revolt](https://www.mediafire.com/file/sw6k8kf4kg32q0t/HTTPCANARY+(REVOLT).zip/file) 
+• **[HTTP Canary Revolt]**(https://www.mediafire.com/file/sw6k8kf4kg32q0t/HTTPCANARY+(REVOLT).zip/file) 
 
-• [BUSSID Versi 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) 
-> Jika Pake Bussid Versi Terbaru, Token / Device Id Tidak Muncul.
+• **[BUSSID Versi 3.6.1]**(https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) 
+> **Jika Pake Bussid Versi Terbaru, Token / Device Id Tidak Muncul.*
 
-> Setelah Topup Selesai Bisa Langsung Update Bussid Ke Versi Terbaru!
+> ***Setelah Topup Selesai Bisa Langsung Update Bussid Ke Versi Terbaru!*
 
 
 ## Contact Me
 
-• [WhatsApp](https://wa.me/+6282275380303)
+• **[WhatsApp]**(https://wa.me/+6282275380303)
 
