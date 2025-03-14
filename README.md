@@ -49,5 +49,5 @@ GUNAKAN KEY **FREE** UNTUK AKSES GRATIS SAMPAI 30 MARET 2025
 
 ## Contact Me
 
-• **[WhatsApp]**(https://wa.me/+6282275380303)
+• **[WhatsApp](https://wa.me/+6282275380303)**
 
